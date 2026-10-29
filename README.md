@@ -1,63 +1,70 @@
-# E aí, eu sou o Alan 👋
+# Alan | Desenvolvedor Back-end
 
-Dev back-end. Passo a maior parte do tempo montando API, quebrando sistema grande em microserviço e fazendo coisa rodar na nuvem sem dar dor de cabeça. Também me viro no front quando precisa, mas o meu lugar é no servidor.
-
-Trabalho principalmente com **TypeScript/Node** e **Java/Spring Boot**.
+Desenvolvedor back-end com foco em **TypeScript/Node.js** e **Java/Spring Boot**. Construo APIs, microserviços e processamento em lote, e levo tudo até o deploy na nuvem. Também me viro no front quando o projeto precisa.
 
 <br>
 
-## Com o que eu mexo
+## Experiência
 
-**Back-end**
+**Estagiário de Desenvolvimento | Brasilcap** (grupo BB Seguros)
+*Mai 2026 até hoje*
+
+Desenvolvimento back-end com Node.js e TypeScript, trabalhando com microserviços na AWS e containers com Docker.
+
+**Estagiário de Desenvolvimento | Tecal**
+*Set 2025 a Mai 2026*
+
+Desenvolvimento back-end com Java e Spring Boot.
+
+<br>
+
+## Stack
+
+**Linguagens e frameworks**
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,java,spring&perline=8" alt="TypeScript, Node.js, Java, Spring Boot" />
 
-**Nuvem e infra**
+**Nuvem e infraestrutura**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&perline=8" alt="AWS, Docker, Git, Linux" />
 
-**Banco de dados**
+**Bancos de dados**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Postgres, MySQL, MongoDB" />
 
-**Front (quando o projeto pede)**
+**Front-end**
 
 <img src="https://skillicons.dev/icons?i=react,html,css&perline=8" alt="React, HTML, CSS" />
 
 <br>
 
-## O que já construí
+## O que eu já entreguei
 
-- **Aplicações completas**, do banco até a API, com autenticação, regra de negócio e deploy
-- **Microserviços** em Node e em Spring Boot
-- **Batches** para processar volume grande de dados
-- **Lambdas** e serviços na AWS (SQS, S3, API Gateway e por aí vai)
-- **Integrações** entre sistemas, filas e processamento assíncrono
-
-<br>
-
-## O que eu curto fazer
-
-Pegar um problema bagunçado e transformar em algo simples de manter. Código que outra pessoa abre daqui a seis meses e entende de primeira é o meu objetivo.
+- **Aplicações completas**, do banco de dados à API, incluindo autenticação, regras de negócio e deploy
+- **Microserviços** em Node.js/TypeScript e em Java com Spring Boot
+- **Jobs em lote (batch)** para processar grandes volumes de dados
+- **Funções Lambda** e serviços na AWS, como SQS, S3 e API Gateway
+- **Integrações entre sistemas**, com filas e processamento assíncrono
 
 <br>
 
-## Aqui no GitHub
+## Como eu trabalho
 
-Os repositórios que eu deixo públicos são só uma parte do que já fiz. Boa parte do que construí está em projetos privados, então dá uma olhada nos fixados lá em cima.
+- Código simples de ler e fácil de manter por quem vier depois
+- Separação clara de responsabilidades entre os serviços
+- Atenção a performance, tratamento de erros e logs, que fazem diferença em produção
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alandssl&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandssl&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Linguagens mais usadas" height="165" />
-</p>
+## Sobre meus repositórios
+
+Os projetos públicos aqui são só uma parte do que já fiz. Boa parte do meu trabalho está em repositórios privados, então os fixados abaixo são uma amostra.
 
 <br>
 
 ## Contato
 
-Se quiser trocar ideia sobre projeto, vaga ou só falar de código:
+Estou aberto a vagas e a conversas sobre projetos. Pode me chamar por aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alandssl)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.ds.0210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
