@@ -33,12 +33,12 @@ Angular no dia a dia do trabalho, com noções de React e Next.js.
 ## Experiência
 
 **Estagiário de Desenvolvimento | Brasilcap** (grupo BB Seguros)
-*Mai 2026 até hoje*
+_Mai 2026 até hoje_
 
 Desenvolvimento com Node.js e TypeScript, microserviços na AWS e containers com Docker. No front, trabalho com Angular.
 
 **Estagiário de Desenvolvimento | Tecal**
-*Set 2025 a Mai 2026*
+_Set 2025 a Mai 2026_
 
 Desenvolvimento back-end com Java e Spring Boot.
 
@@ -52,6 +52,14 @@ Desenvolvimento back-end com Java e Spring Boot.
 - **Funções Lambda** e integrações na AWS com SQS, SNS, S3 e API Gateway
 - **Consultas e análise de dados** com Athena sobre Data Lake
 - **Monitoramento e logs** com CloudWatch
+
+<br>
+
+## Atividade
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D das minhas contribuições no GitHub" width="100%" />
+</p>
 
 <br>
 
