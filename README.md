@@ -73,5 +73,5 @@ Os projetos públicos aqui são só uma parte do que já fiz. Boa parte do meu t
 
 Estou aberto a vagas e a conversas sobre projetos. Pode me chamar por aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alandssl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alandiass/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.ds.0210@gmail.com)
